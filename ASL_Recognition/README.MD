@@ -33,6 +33,6 @@ Training the CNN Model: The CNN model is trained using the dataset of sign langu
 
 Testing the CNN Model: After training the CNN model, it is tested on a separate dataset of sign language gesture images to evaluate its performance. The performance metrics can include accuracy, precision, recall, and F1 score.
 
-By using CNNs for sign language recognition, we can build models that are able to recognize sign language gestures with high accuracy, which can be used to create applications that aid in communication for deaf and hard-of-hearing individuals.
+By using CNNs for sign language recognition, we can build models that are able to recognize sign language gestures with high accuracy, which can be used to create applications that aid in communication for deaf and hard-of-hearing individuals. More details are available in this [notebook.](https://github.com/iqrabismii/Computer-Vision-Projects/blob/main/ASL_Recognition/notebook.ipynb)
 
 
